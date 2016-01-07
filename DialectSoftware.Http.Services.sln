@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DialectSoftware.Http.NetHttpService", "DialectSoftware.Http.NetHttpService\DialectSoftware.Http.NetHttpService.csproj", "{8A7611E6-A888-434F-9FC7-C674C2E70967}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DialectSoftware.Http.NetHttpService.Extensions", "DialectSoftware.Http.NetHttpService.Extensions\DialectSoftware.Http.NetHttpService.Extensions.csproj", "{39811997-4438-4981-A06B-9F6826EE23CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DialectSoftware.Http.NetHttpService.Encoders", "DialectSoftware.Http.NetHttpService.Formatters\DialectSoftware.Http.NetHttpService.Encoders.csproj", "{23203E85-A517-4132-83A1-9F383458AF0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WADL", "WADL\WADL.csproj", "{E6C198C7-D333-4B4A-99C9-18BD1022463D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetHttpServiceHost", "NetHttpServiceHost\NetHttpServiceHost.csproj", "{B486899E-DFA3-4F97-95CF-469202600F4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A7611E6-A888-434F-9FC7-C674C2E70967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7611E6-A888-434F-9FC7-C674C2E70967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A7611E6-A888-434F-9FC7-C674C2E70967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7611E6-A888-434F-9FC7-C674C2E70967}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39811997-4438-4981-A06B-9F6826EE23CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39811997-4438-4981-A06B-9F6826EE23CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39811997-4438-4981-A06B-9F6826EE23CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39811997-4438-4981-A06B-9F6826EE23CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23203E85-A517-4132-83A1-9F383458AF0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23203E85-A517-4132-83A1-9F383458AF0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23203E85-A517-4132-83A1-9F383458AF0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23203E85-A517-4132-83A1-9F383458AF0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6C198C7-D333-4B4A-99C9-18BD1022463D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6C198C7-D333-4B4A-99C9-18BD1022463D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6C198C7-D333-4B4A-99C9-18BD1022463D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6C198C7-D333-4B4A-99C9-18BD1022463D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B486899E-DFA3-4F97-95CF-469202600F4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B486899E-DFA3-4F97-95CF-469202600F4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B486899E-DFA3-4F97-95CF-469202600F4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B486899E-DFA3-4F97-95CF-469202600F4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
