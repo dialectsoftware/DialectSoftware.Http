@@ -9,6 +9,12 @@ using System.Reflection;
 using System.Xml.Schema;
 using System.Collections;
 
+/// ******************************************************************************************************************
+/// * Copyright (c) 2011 Dialect Software LLC                                                                        *
+/// * This software is distributed under the terms of the Apache License http://www.apache.org/licenses/LICENSE-2.0  *
+/// *                                                                                                                *
+/// ******************************************************************************************************************
+
 //optional params (evaluate)
 //doc
 //add parse to get params already tested & return bool

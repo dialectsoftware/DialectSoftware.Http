@@ -17,6 +17,12 @@ using System.ServiceModel.Activation;
 using System.Collections.Specialized;
 using WADL;
 
+/// ******************************************************************************************************************
+/// * Copyright (c) 2011 Dialect Software LLC                                                                        *
+/// * This software is distributed under the terms of the Apache License http://www.apache.org/licenses/LICENSE-2.0  *
+/// *                                                                                                                *
+/// ******************************************************************************************************************
+
 //TODO: cache
 //TODO: add use of header variables in request.
 //TODO: chained methods where result from one item in the url is then passed to the next item in the url as a parameter.

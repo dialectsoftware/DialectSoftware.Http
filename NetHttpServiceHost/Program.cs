@@ -13,6 +13,11 @@ using System.Xml.Serialization;
 using System.Xml;
 using System.Web;
 
+/// ******************************************************************************************************************
+/// * Copyright (c) 2011 Dialect Software LLC                                                                        *
+/// * This software is distributed under the terms of the Apache License http://www.apache.org/licenses/LICENSE-2.0  *
+/// *                                                                                                                *
+/// ******************************************************************************************************************
 
 //http://weblogs.java.net/blog/mhadley/archive/2009/02/draft_wadl_upda.html
 namespace UnitTest

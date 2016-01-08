@@ -13,6 +13,12 @@ using System.ServiceModel.Syndication;
 using System.ServiceModel.Web;
 using System.Threading;
 
+/// ******************************************************************************************************************
+/// * Copyright (c) 2011 Dialect Software LLC                                                                        *
+/// * This software is distributed under the terms of the Apache License http://www.apache.org/licenses/LICENSE-2.0  *
+/// *                                                                                                                *
+/// ******************************************************************************************************************
+
 //http://www.mnot.net/cache_docs/#CACHE-CONTROL
 namespace DialectSoftware.Http.Services
 {
